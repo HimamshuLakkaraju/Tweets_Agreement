@@ -1,0 +1,3 @@
+pip install datasets transformers[sentencepiece]
+pip install transformers
+pip install pytorch-transformers
